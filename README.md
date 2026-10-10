@@ -1,4 +1,5 @@
 # Shock-Resonite-PI
+### no AI was used in the making of this project.
 Shock-Resonite-PI is a ingame controller for [pishock](https://pishock.com/)
 \
 \
