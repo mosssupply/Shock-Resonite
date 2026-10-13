@@ -1,5 +1,7 @@
 # Shock-Resonite
 ### no AI was used in the making of this project.
+
+still in bata
 Shock-Resonite-PI is a ingame controller for [pishock](https://pishock.com/)
 \
 \
